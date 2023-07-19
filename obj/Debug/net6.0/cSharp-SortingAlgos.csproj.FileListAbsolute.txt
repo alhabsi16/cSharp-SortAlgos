@@ -1,0 +1,15 @@
+C:\Users\TRA\source\repos\cSharp-SortingAlgos\cSharp-SortingAlgos\bin\Debug\net6.0\cSharp-SortingAlgos.exe
+C:\Users\TRA\source\repos\cSharp-SortingAlgos\cSharp-SortingAlgos\bin\Debug\net6.0\cSharp-SortingAlgos.deps.json
+C:\Users\TRA\source\repos\cSharp-SortingAlgos\cSharp-SortingAlgos\bin\Debug\net6.0\cSharp-SortingAlgos.runtimeconfig.json
+C:\Users\TRA\source\repos\cSharp-SortingAlgos\cSharp-SortingAlgos\bin\Debug\net6.0\cSharp-SortingAlgos.dll
+C:\Users\TRA\source\repos\cSharp-SortingAlgos\cSharp-SortingAlgos\bin\Debug\net6.0\cSharp-SortingAlgos.pdb
+C:\Users\TRA\source\repos\cSharp-SortingAlgos\cSharp-SortingAlgos\obj\Debug\net6.0\cSharp-SortingAlgos.csproj.AssemblyReference.cache
+C:\Users\TRA\source\repos\cSharp-SortingAlgos\cSharp-SortingAlgos\obj\Debug\net6.0\cSharp-SortingAlgos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\source\repos\cSharp-SortingAlgos\cSharp-SortingAlgos\obj\Debug\net6.0\cSharp-SortingAlgos.AssemblyInfoInputs.cache
+C:\Users\TRA\source\repos\cSharp-SortingAlgos\cSharp-SortingAlgos\obj\Debug\net6.0\cSharp-SortingAlgos.AssemblyInfo.cs
+C:\Users\TRA\source\repos\cSharp-SortingAlgos\cSharp-SortingAlgos\obj\Debug\net6.0\cSharp-SortingAlgos.csproj.CoreCompileInputs.cache
+C:\Users\TRA\source\repos\cSharp-SortingAlgos\cSharp-SortingAlgos\obj\Debug\net6.0\cSharp-SortingAlgos.dll
+C:\Users\TRA\source\repos\cSharp-SortingAlgos\cSharp-SortingAlgos\obj\Debug\net6.0\refint\cSharp-SortingAlgos.dll
+C:\Users\TRA\source\repos\cSharp-SortingAlgos\cSharp-SortingAlgos\obj\Debug\net6.0\cSharp-SortingAlgos.pdb
+C:\Users\TRA\source\repos\cSharp-SortingAlgos\cSharp-SortingAlgos\obj\Debug\net6.0\cSharp-SortingAlgos.genruntimeconfig.cache
+C:\Users\TRA\source\repos\cSharp-SortingAlgos\cSharp-SortingAlgos\obj\Debug\net6.0\ref\cSharp-SortingAlgos.dll
